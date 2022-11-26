@@ -80,10 +80,6 @@
     src="https://img.shields.io/badge/Json%20Web%20Tokens-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"
     alt="Json Web Tokens"
   />
-    <img
-    src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"
-    alt="Swagger"
-  />
 </div>
 <div>
   <div>
