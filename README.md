@@ -1,7 +1,7 @@
 ## Olá pessoal 👋
 
 - 🔭 Atualmente estou trabalhando como autônomo
-- 🌱 Atualmente estou estudando desenvolvimento Web na instituição Trybe 
+- 🌱 Atualmente estou estudando Java  na instituição Trybe 
 - 💬 Gosto de praticar Air Soft, Futebol e esportes ao ar livre
 - 📫 Como entrar em contato comigo: Zap 3198921 0300
 
