@@ -1,7 +1,7 @@
 ## Olá pessoal 👋
 
-- 🔭 Atualmente estou trabalhando como autônomo
-- 🌱 Atualmente estou estudando Java  na instituição Trybe 
+- 🔭 Atualmente estou trabalhando como desenvolvedor fullstack
+- 🌱 Atualmente estou estudando Engenharia de software na instituiçao Unicesumar
 - 💬 Gosto de praticar Air Soft, Futebol e esportes ao ar livre
 - 📫 Como entrar em contato comigo: Zap 3198921 0300
 
